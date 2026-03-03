@@ -2,7 +2,6 @@ Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
 MEDIUM,Kth Largest Element in an Array,93.6,0.6797700117160972,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
 MEDIUM,Find Peak Element,85.8,0.4650925742800201,https://leetcode.com/problems/find-peak-element,"Array, Binary Search"
 MEDIUM,"Pow(x, n)",82.1,0.3702319433830264,https://leetcode.com/problems/powx-n,"Math, Recursion"
-MEDIUM,Simplify Path,81.7,0.4785432317744196,https://leetcode.com/problems/simplify-path,"String, Stack"
 MEDIUM,Merge Intervals,81.2,0.4939526774846352,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
 MEDIUM,Copy List with Random Pointer,78.8,0.6053669280147949,https://leetcode.com/problems/copy-list-with-random-pointer,"Hash Table, Linked List"
 MEDIUM,LRU Cache,76.0,0.4521454488123034,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
